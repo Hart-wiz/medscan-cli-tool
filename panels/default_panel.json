@@ -1,0 +1,5 @@
+{
+  "Glucose": { "min": 70, "max": 140 },
+  "Cholesterol": { "min": 120, "max": 200 },
+  "Hemoglobin": { "min": 12, "max": 17.5 }
+}
