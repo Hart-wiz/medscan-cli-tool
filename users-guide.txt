@@ -1,0 +1,32 @@
+Users Guide For The MedScan-CLI-TOOL
+
+clone repo 
+
+step 1. - Clone the Repository
+
+```bash
+git clone https://github.com/hart-wiz/medscan-cli-tool.git
+cd medscan-cli-tool
+```
+
+step 2. - install
+
+pip install -r requirements.txt
+
+Step 3. - rename your csv file to report.csv
+
+step 4. - move the renamed report to the folder /data replace. it replaces the already existing file report.csv
+
+step 5. - In terminal, run " python autorun.py"
+
+step 6. - Output is saved in data folder as flagged_output.csv
+
+
+
+scripted with Love by WISDOM NJIMOGU for my fellow medical professionals....  
+
+
+
+
+
+
